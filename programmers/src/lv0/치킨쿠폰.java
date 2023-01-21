@@ -13,8 +13,6 @@ public class 치킨쿠폰 {
 		
         System.out.println(x+y);
         
-        //게시판 : 
-        
 	}
 
 }

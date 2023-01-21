@@ -35,8 +35,6 @@ public class 소인수분해 {
         for (int i : answer) {
 			System.out.println("answer = "+i);
 		}
-        
-        
 	}
     
 }

@@ -25,5 +25,4 @@ public class 잘라서배열로저장하기2 {
 		answer = String.valueOf(sb).replaceAll("/", "").split("[^a-zA-Z0-9]\\b");
 		System.out.println(Arrays.toString(answer));
 	}
-
 }

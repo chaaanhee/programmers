@@ -20,5 +20,4 @@ public class 합성수찾기 {
 		}
 		System.out.println(answer);
 	}
-
 }

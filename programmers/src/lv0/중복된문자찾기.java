@@ -14,7 +14,6 @@ public class 중복된문자찾기 {
 	    List<String> list = new ArrayList<>();
 	    
 	    for(int i = 0; i < my_string.length();i++) {
-	    	
 //	    	System.out.println(str[i]);
 	    	if(!list.contains(str[i])) {
 	    		list.add(str[i]);

@@ -5,7 +5,6 @@ public class 컨트롤제트 {
 	public static void main(String[] args) {
 		String s = "10 Z 20 Z 1";
 		int answer = 0;
-		//
 		int add = 0;
 		int sub = 0;
 		String[] str = s.split(" ");

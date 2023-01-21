@@ -22,6 +22,7 @@ public class 영어가싫어요 {
 		answer = Long.valueOf(numbers);
 		
 		System.out.println(answer);
+		
 	}
 
 }

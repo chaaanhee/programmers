@@ -15,6 +15,7 @@ public class 숨어있는숫자의덧셈 {
 			} else answer += Integer.valueOf(strArr[i]);
 		}
 		System.out.println(answer);
+		
 	}
 
 }

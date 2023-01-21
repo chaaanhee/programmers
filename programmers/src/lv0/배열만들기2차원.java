@@ -7,7 +7,6 @@ public class 배열만들기2차원 {
 		int n = 2;
 		int count = 0;
 		// 1. 배열 하나씩 쪼개서 n개 숫자별로 묶는다.
-		//
 		int[][] answer = new int[num_list.length/n][n];
 		
 		for(int i = 0; i < answer.length; i++) {
@@ -19,7 +18,6 @@ public class 배열만들기2차원 {
 		}
 		
 		// 00 01 10 11
-		
 	}
 
 }

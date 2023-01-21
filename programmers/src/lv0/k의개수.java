@@ -7,7 +7,7 @@ public class k의개수 {
 		int j = 50; 
 		int k = 5;
 		int answer = 0;
-		String str = "";
+		String str = ""; 
 		
 		//for문 돌려 들어가는 숫자 모두 배열에 담기
 		//배열 charAt돌려 char로 

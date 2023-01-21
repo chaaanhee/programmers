@@ -20,6 +20,7 @@ public class 칠의개수 {
 	    	 }
 	    	}
 	    }
+	    
 	    System.out.println(answer);
 //	    System.out.println(strArr.toString());
 	}

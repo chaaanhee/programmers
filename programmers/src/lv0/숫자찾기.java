@@ -13,7 +13,6 @@ public class 숫자찾기 {
         
 		System.out.println(answer);
 		
-		
 	}
 
 }

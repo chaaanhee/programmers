@@ -12,3 +12,4 @@ public class 이진수더하기 {
 		System.out.println(answer);	
 	}
 }
+

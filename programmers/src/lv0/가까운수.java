@@ -9,7 +9,7 @@ public class 가까운수 {
 		int[] array = {10, 11, 12};
 		int n = 13;
 		int answer = 0;
-		//차액이 가장 가까운 수가 
+		//차액이 가장 가까운 수가
 		
 		Arrays.sort(array);
 		int min = 10000;

@@ -16,7 +16,6 @@ public class 진료순서정하기 {
 			intArr.add(i);
 		}
 		Collections.sort(intArr, Collections.reverseOrder());
-		
 
 		for(int i = 0; i < emergency.length; i++) {
 			answer[i] = intArr.indexOf(emergency[i])+1;

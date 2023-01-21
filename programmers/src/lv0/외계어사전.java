@@ -7,8 +7,6 @@ public class 외계어사전 {
 		String[] dic = {"dez", "dww", "dzx", "loveaw"};
         //dic 을 한번 쪼개기
         //contains
-		
-		
         int answer = 2;
         for(int i = 0; i < dic.length; i++) {
         	int count = 0;

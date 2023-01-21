@@ -14,7 +14,6 @@ public class 한번만등장한문자 {
 
 		// s를 배열집합으로 하나씩 꺼내기
 		// 중복값을 삭제
-		//
 		
 		ArrayList<Character> chArr = new ArrayList<>();
 		for(int i = 0; i < s.length() ; i++) {

@@ -24,7 +24,7 @@ public class 문자열정렬하기2 {
 	}
 
 }
-
+ 
 class Solution {
     public String solution(String my_string) {
         char[] c = my_string.toLowerCase().toCharArray();

@@ -11,7 +11,7 @@ public class A로B만들기 {
 		
 		// 배열로 담아서 
 		// 정렬 후 
-		// 비교
+		// 비교 
 		
 		for(int i = 0; i < before.length(); i++) {
 			char[] beArr = before.toCharArray();

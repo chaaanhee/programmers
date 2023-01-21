@@ -14,9 +14,7 @@ public class 팩토리얼 {
 			i! ≤ n 
 	     */
 	   
-	    
 	}
-	
     public static void recursiveTest(int count)
     {
         System.out.println("count : " + count);

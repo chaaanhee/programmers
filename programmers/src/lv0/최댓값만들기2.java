@@ -29,7 +29,6 @@ public class 최댓값만들기2 {
 		
 		System.out.println(answer);
 		
-		
 	}
 
 }

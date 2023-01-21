@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class 모스부호 {
-
+ 
 	public static void main(String[] args) {
 		String letter =".... . .-.. .-.. ---";
 	    String answer = "";

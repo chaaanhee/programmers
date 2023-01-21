@@ -17,7 +17,7 @@ public class 인덱스바꾸기 {
 		answer = String.valueOf(charArr);
 		System.out.println(answer);
 		
-		//다른사람 답!
+		//참고용 답!
 		char[] ch = my_string.toCharArray();
 
         ch[num1] = my_string.charAt(num2);
